@@ -118,7 +118,7 @@ En esta leccion aprenderas sobre los eventos que los elementos tienen.
 - Pillando todo lo necesario sobre eventos
 - Jugando con los eventos mas importantes
 
-### 10. Formularios
+### 11. Formularios
 En esta leccion usaremos todo el conocimiento adquirido hasta el momento para jugar con los formularios.
 
 - Selecionar elementos de un formulario
@@ -126,7 +126,7 @@ En esta leccion usaremos todo el conocimiento adquirido hasta el momento para ju
 - eventos
 - y muchos mas
 
-### 11. Final
+### 12. Final
 Hasta este punto hemos finalizado la introduccion basica del lenguaje.
 
 - Que me falta por aprender?
