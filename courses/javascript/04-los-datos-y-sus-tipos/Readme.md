@@ -93,6 +93,8 @@ Este es un tipo de datos primitivo especial en javascript. Y su definiion genera
 var referencia = null;
 ```
 
+![null vs undefined image](./assets/undefined-vs-null.jpg)
+
 
 
 ## function
