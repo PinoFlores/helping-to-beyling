@@ -41,7 +41,7 @@ En esta leccion aprenderas sobre javascript y porque deberias de empezar con est
 - Mucho mas
 
 
-### 3. Creando archivos .js y como cargarlos en el navegador
+### 3. Creando archivos .js
 En esta leccion aprenderas como crear archivos javascript y como enlazarlos y cargarlos en el navegador para comenzar a hackear el mundo.
 
 - Que herramientas necesito para trabajar con el lenguaje.
@@ -50,7 +50,7 @@ En esta leccion aprenderas como crear archivos javascript y como enlazarlos y ca
 - Demo en el navegador
 
 
-### 4. Tipos de datos
+### 4. Los Datos y sus tipos
 En esta leccion aprenderas que son los tipos de datos en general y cuales nos ofrece javascript.
 
 - Que son los tipos de datos
@@ -95,7 +95,7 @@ En esta leccion aprenderas sobre como manejar el flujo de un programa
 
 
 
-### 8. Objectos a full
+### 8. Objectos
 En esta leccion nos centraremos en los objetos
 
 - Creando nuestros propios objectos
@@ -103,17 +103,22 @@ En esta leccion nos centraremos en los objetos
 - Objetos y metodos/funciones 
 
 
-### 9. Document Object Model (DOM) y eventos
-En esta leccion aprenderas que es el dom, que dorma tiene, como manipurlos y sobre eventos
+### 9. Document Object Model (DOM)
+En esta leccion aprenderas que es el dom, que dorma tiene y como manipurlos.
 
 - Que es el DOM
 - Ids, clases y tipos.
 - Seleccionando elementos del DOM
 - Modificando elementos seleccionados del DOM
+
+### 10. Eventos
+En esta leccion aprenderas sobre los eventos que los elementos tienen.
+
 - Eventos sobre los elementos
+- Pillando todo lo necesario sobre eventos
+- Jugando con los eventos mas importantes
 
-
-### 10. Usando nuestro conocimiento para trabajar con formularios
+### 10. Formularios
 En esta leccion usaremos todo el conocimiento adquirido hasta el momento para jugar con los formularios.
 
 - Selecionar elementos de un formulario
@@ -121,7 +126,7 @@ En esta leccion usaremos todo el conocimiento adquirido hasta el momento para ju
 - eventos
 - y muchos mas
 
-### 11. Motivacion y consejos para dar los siguientes pasos
+### 11. Final
 Hasta este punto hemos finalizado la introduccion basica del lenguaje.
 
 - Que me falta por aprender?
