@@ -87,7 +87,7 @@ var direccion = "Cerca de aqui, lejos de alla."; // la direccion de alguien
 
 Este es un tipo de datos primitivo especial en javascript. Y su definiion general seria la siguiente:
 
-- un valor inexistente o una valor que apunta a la inexistencia.
+- representa a ausencia intencional de cualquier valor.
 
 ```js
 var referencia = null;
